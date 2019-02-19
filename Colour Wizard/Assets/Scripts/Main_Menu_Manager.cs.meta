@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: c242bb97e5c1cf347a7d21269e13aab5
+timeCreated: 1499724199
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - local_Player_Saved_Data_Manager: {instanceID: 0}
+  - local_UI_Manager: {instanceID: 0}
+  - Level_Select_Panel: {instanceID: 0}
+  - Options_Panel: {instanceID: 0}
+  - cursor_Image_Default: {fileID: 2800000, guid: 32fb6a457e2b5a64ea3472a6a4581de9,
+      type: 3}
+  - Continue: {instanceID: 0}
+  - Level_One: {instanceID: 0}
+  - Level_Two: {instanceID: 0}
+  - Level_Three: {instanceID: 0}
+  - Level_Four: {instanceID: 0}
+  - Level_Five: {instanceID: 0}
+  - Level_Six: {instanceID: 0}
+  - windowed_Toggle: {instanceID: 0}
+  - resolution_Options: {instanceID: 0}
+  executionOrder: -3
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

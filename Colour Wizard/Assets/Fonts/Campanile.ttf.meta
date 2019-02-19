@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cb50db0358e9e894cbecff861e54e41d
+timeCreated: 1497984434
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Campanile
+  fontNames:
+  - Campanile
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
