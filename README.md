@@ -1,2 +1,2 @@
 # Soulmancer
-Commiting Codebase for Soulmancer
+This is our code base for Soulmancer
